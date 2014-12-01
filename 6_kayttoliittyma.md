@@ -37,5 +37,3 @@ Sisäänkirjautumisnäkymästä karttanäkymään siirtyminen tapahtuu nopean fa
 
 - vähintään 3 näkymää
 - Voit käyttää Painttia, Visiota tai esimerkiksi [Moqupsia](https://moqups.com/). 
-
-**Palauta linkki projektinne tiedostoon (Github), mistä löytyvät vastaukset tehtäviin. Vaikka teitte työn ryhmätyönä, jokainen palauttaa linkin Tuubiin henkilökohtaisesti.**
