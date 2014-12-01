@@ -1,13 +1,4 @@
-## Harjoitus 5: Käyttöliittymän suunnittelu
-
-#### 1. Selitä seuraavat käsitteet:
-
-  1. Näkymä (view)
-  2. Wireframe
-  3. Mockup
-  4. Prototyyppi
-
-#### 2. Käyttöliittymän näkymät (User interface, views), oma projektiaihe. Voi tehdä pienryhmissä. 
+## Käyttöliittymä
 
 1. Miten käyttötapaukset ja käyttöliittymät voisi yhdistää toisiinsa vaatimusmäärittelydokumentaatiossa? Perustele
 vastauksesi.
