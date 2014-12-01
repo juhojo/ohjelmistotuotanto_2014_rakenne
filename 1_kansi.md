@@ -1,17 +1,15 @@
 
 ## Projektin kansilehti 
 
-Listaa tänne
-
-* Projektin otsikko eli tuotteen nimi
+* Projektin otsikko:
 	Metropolia Ranking Games
-* Tiimin nimi
+* Tiimin nimi:
 	Tres J-Amigos
-* Tiimin jäsenet
+* Tiimin jäsenet:
 	- Jussi Soiluva
 	- Juho Jokela
 	- Johannes Hartikainen
-* Päivämäärä
+* Päivämäärä:
 	01.12.2014
-* Dokumentin versio, jos tarpeen 
+* Dokumentin versio:
 	v.1.0
