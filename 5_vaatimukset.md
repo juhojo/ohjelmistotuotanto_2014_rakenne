@@ -9,12 +9,11 @@
 	  - Värien vaihtuminen johtavan ryhmän mukaan
 	  - Pelin tulee tunnistaa kun parhaan pistemäärän omaava pelaaja kirjautuu peliin
   * Tarkentavat käyttötapauksia
-	  - Poistuttaessa luokasta käynnistyy pelin aikakatkaisu. Ajan loputtua sovellus sammuttaa pelin väkisin.
+	- Poistuttaessa luokasta käynnistyy pelin aikakatkaisu. Ajan loputtua sovellus sammuttaa pelin väkisin.
 	    Pisteesi tallentuvat, mutta et voi jatkaa edellistä peliä.
-		 - Aikakatkaisua käytetään, jotta peliä ei voisi pelata muualla kuin sille määritetyssä luokassa.
-	  - Jos vastaanotat puhelun tai jos käytät toista sovellusta Metropolia Ranking Gamesin ollessa päällä, peli pysähtyy taukotilaan.
-		 - Taukotila aktivoituu vain edellämainituissa tapauksissa. Tällä pyritään pelaajasta riippumattomien haittojen minimoimiseen,
-		   mutta koska peliä ei voi manuaalisesti pysäyttää pakottaa se pelaajan intensiiviseen pelaamiseen.
+	- Aikakatkaisua käytetään, jotta peliä ei voisi pelata muualla kuin sille määritetyssä luokassa.
+	- Jos vastaanotat puhelun tai jos käytät toista sovellusta Metropolia Ranking Gamesin ollessa päällä, peli pysähtyy taukotilaan.
+	- Taukotila aktivoituu vain edellämainituissa tapauksissa. Tällä pyritään pelaajasta riippumattomien haittojen minimoimiseen, mutta koska peliä ei voi manuaalisesti pysäyttää pakottaa se pelaajan intensiiviseen pelaamiseen.
 	  
 * Ei-funktionaaliset vaatimukset
 	- Käytettävyys:
