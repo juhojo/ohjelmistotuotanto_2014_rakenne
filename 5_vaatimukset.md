@@ -8,7 +8,7 @@
 	  - User interface, jossa on listattu kaikki luokat ja niiden pelit
 	  - Värien vaihtuminen johtavan ryhmän mukaan
 	  - Pelin tulee tunnistaa kun parhaan pistemäärän omaava pelaaja kirjautuu peliin
-  * Tarkentavat käyttötapauksia
+* Tarkentavat käyttötapauksia
 	- Poistuttaessa luokasta käynnistyy pelin aikakatkaisu. Ajan loputtua sovellus sammuttaa pelin väkisin.
 	    Pisteesi tallentuvat, mutta et voi jatkaa edellistä peliä.
 	- Aikakatkaisua käytetään, jotta peliä ei voisi pelata muualla kuin sille määritetyssä luokassa.
