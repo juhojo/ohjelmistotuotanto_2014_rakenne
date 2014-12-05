@@ -29,6 +29,6 @@
 	  - Voidaan skaalata kaikkiin Metropolian oppilaitoksiin
 	- Hinta:
 	  - Ilmainen
-	Prosessimalli:
+	- Prosessimalli:
 	  - Scrum
 
